@@ -1,0 +1,8 @@
+{
+  "name": "cat",
+  "main": "cat.js",
+  "version": "1.0.0",
+  "description": "模块与包demo",
+  "dependencies": {
+  }
+}
